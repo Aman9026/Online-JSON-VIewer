@@ -1,6 +1,6 @@
 # OnlineJSONViewer
 
-A new Flutter project.
+Fetches JSON data from a given api online
 
 ## Demo
 
